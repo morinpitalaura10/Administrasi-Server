@@ -32,4 +32,4 @@
 ![alt text](image11.jpeg)
 
 12. Masuk Saldo 100 Dollar
-![alt text](image12.jpeg)
+![alt text](image12.png)
