@@ -10,3 +10,16 @@
 ![alt text](image3.png)
 
 4. 
+![alt text](image4.png)
+
+5. 
+![alt text](image5.png)
+
+6. 
+![alt text](image6.png)
+
+7. 
+![alt text](image7.png)
+
+8. 
+![alt text](image8.png)
