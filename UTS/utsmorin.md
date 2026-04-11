@@ -7,7 +7,7 @@
 ![alt text](image-1.png)
 
 ### 2. Mengatur security group
-![alt text](image-2.png)
+![alt text](image-9.png)
 
 ### 3. Membuat Elastic IP
 ![alt text](image.png)
