@@ -20,6 +20,7 @@
 
 ### 6. Install Web server (Nginx Server)
 ![alt text](image-4.png)
+![alt text](image-10.png)
 
 ### 7. Set up File Zilla
 ![alt text](image-7.png)
