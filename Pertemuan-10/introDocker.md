@@ -31,3 +31,30 @@
     - URL Docker Hub (https://app.docker.com/accounts/1005morinpitalaura)
     - Continue with Github
     ![alt text](Image2.jpeg)
+
+3. Create Repository for Docker
+    - Klik Menu -> Hub -> Repositories
+    - Klik Button New Repositories
+    - isi nama repository dengan compro-2388010040 dan deskripsi Web App Statis Compro
+    - Visibility Public
+    - Pilih Create
+    ![alt text](Image3.jpeg)
+
+4. Create token access
+    - Klik Profile -> Settings -> personal access tokens
+    - klik generate new token
+    - isi deskripsi
+    - expire date 
+    ![alt text](Image4.jpeg)
+    ![alt text](Image5.jpeg)
+
+5. Create Projek di local
+    - buat folder compro_2388010040
+    - masukkan file index.html
+    - buat Dockerfile dengan isi sebagai berikut
+    FROM nginx:alpine
+    COPY index.html /usr/share/nginx/html/index.html
+    EXPOSE 80
+    
+6. Push projek ke github
+    ![alt text](Image8.jpeg)
