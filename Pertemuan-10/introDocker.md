@@ -26,3 +26,8 @@
     6. cek Installation 
     sudo systemctl status docker 
     ![alt text](Image1.jpeg)
+
+2. Registrasi Docker Hub
+    - URL Docker Hub (https://app.docker.com/accounts/1005morinpitalaura)
+    - Continue with Github
+    ![alt text](Image2.jpeg)
