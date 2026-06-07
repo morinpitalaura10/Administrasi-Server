@@ -30,7 +30,7 @@
 
 ![alt text](image-7.png)
 
-9. buat secret key gi github
+9. buat secret key di github
 
 ![alt text](image-8.png)
 
@@ -38,4 +38,26 @@
 
 ![alt text](image-10.png)
 
-11. 
+11. Tampilan Web Statis
+
+![alt text](image-11.png)
+
+12. Buat user accounts xampp
+
+![alt text](image-12.png)
+
+13. Buat Repositori Docker Baru
+
+![alt text](image-13.png)
+
+14. Deploy web statis
+
+![alt text](image-14.png)
+
+15. Tampilan web deploy
+
+![alt text](image-15.png)
+
+16. Edit di Admin
+
+![alt text](image-16.png)
